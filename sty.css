@@ -1,0 +1,50 @@
+div{
+	border: 3px solid #BA55D3;
+	font-size: 20px;
+	margin: 5px; 
+	background-color: blue;
+        width:1230px;
+        font-size:14pt;
+        font-family:Times New Roman;
+        text-align: center;
+}
+
+.grayblocks{
+	background-color: gray;
+	padding: 5px;
+}
+
+#b1{   
+	background-color: yellow;
+}
+#b2{  height:190px; 
+      width:1200px;
+      margin:10px;
+      padding-bottom:20px;
+      background-color:brown;
+}	
+#b3{ 
+	width:15%;
+    float:left;
+background-color: gray
+}
+
+#b4{
+    width:50%;
+    float:left;
+background-image:url(https://img1.goodfon.ru/wallpaper/big/1/ca/foto-makro-kartinka-zelenye.jpg);
+background-repeat: no-repeat;
+background-position-x: 10px;
+background-position-y: 10px;
+
+}
+
+#b5{
+    width:30%;
+    float:left;
+background-color: gray
+}
+
+#b6{ 
+ 	clear:both;
+}

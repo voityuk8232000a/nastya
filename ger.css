@@ -1,0 +1,36 @@
+div{
+	border: 5px solid #008080;
+	font-size: 20px;
+	margin: 5px; 
+	background-color: #9ACD32; 
+	
+}
+
+.grayblocks{
+	background-color: #6B8E23;
+	padding: 5px;
+}
+
+#b1{
+	background-color: #66CDAA;
+	background-image: url(https://csolsqs.com/fruit-wallpapers/fruit-wallpapers-012.jpg);
+}
+#b2 { align-items: center;
+}
+	
+#b3{ 
+	width:15%;
+    float:left;
+background-color: #6B8E23;
+}
+
+#b4{
+    width:70%;
+    float:left;
+background-color: #6B8E23;
+
+}
+
+#b5{
+    clear: both;
+}
